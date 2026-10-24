@@ -2,7 +2,7 @@
 <h3>Breaking down problems, one function at a time.</h3>
 <br/>
 
-JavaScript solutions, organized by topic, written and committed as I go.
+This is where I put my data structures, algorithms, and JavaScript skills on display, working through problems topic by topic and writing clean, working code along the way.
 
 Let's connect over LinkedIn:
 
