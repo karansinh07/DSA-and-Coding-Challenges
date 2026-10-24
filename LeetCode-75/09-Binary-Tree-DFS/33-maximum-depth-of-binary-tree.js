@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #33/75 (Binary Tree — Depth First Search)
- * Maximum Depth of Binary Tree — Easy
+ * LeetCode 75, problem 33 of 75 (Binary Tree (DFS))
+ * Maximum Depth of Binary Tree (Easy)
  *
  * Find the maximum depth (number of nodes along the longest root-to-leaf path) of a binary tree.
  *

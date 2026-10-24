@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #5/75 (Array / String)
- * Reverse Vowels of a String — Easy
+ * LeetCode 75, problem 5 of 75 (Array / String)
+ * Reverse Vowels of a String (Easy)
  *
  * Reverse only the vowels of a string, leaving every other character in its original position.
  *

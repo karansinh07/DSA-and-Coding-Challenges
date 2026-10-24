@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #55/75 (Binary Search)
- * Find Peak Element — Medium
+ * LeetCode 75, problem 55 of 75 (Binary Search)
+ * Find Peak Element (Medium)
  *
  * Find an index whose value is strictly greater than its neighbors, in logarithmic time using binary search.
  *

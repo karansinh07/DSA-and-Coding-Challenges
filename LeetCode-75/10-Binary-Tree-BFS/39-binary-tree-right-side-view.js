@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #39/75 (Binary Tree — Breadth First Search)
- * Binary Tree Right Side View — Medium
+ * LeetCode 75, problem 39 of 75 (Binary Tree (BFS))
+ * Binary Tree Right Side View (Medium)
  *
  * Return the values of the nodes you would see if standing on the right side of the tree, ordered top to bottom.
  *

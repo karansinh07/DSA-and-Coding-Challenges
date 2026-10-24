@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #47/75 (Graphs — Breadth First Search)
- * Nearest Exit from Entrance in Maze — Medium
+ * LeetCode 75, problem 47 of 75 (Graphs (BFS))
+ * Nearest Exit from Entrance in Maze (Medium)
  *
  * Find the shortest number of steps from an entrance to the nearest exit of a maze using breadth-first search.
  *

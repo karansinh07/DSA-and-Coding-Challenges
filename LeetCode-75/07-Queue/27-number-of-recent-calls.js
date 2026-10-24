@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #27/75 (Queue)
- * Number of Recent Calls — Easy
+ * LeetCode 75, problem 27 of 75 (Queue)
+ * Number of Recent Calls (Easy)
  *
  * Design a counter that returns how many requests have occurred in the last 3000 milliseconds.
  *

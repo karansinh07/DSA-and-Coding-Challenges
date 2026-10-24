@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #36/75 (Binary Tree — Depth First Search)
- * Path Sum III — Medium
+ * LeetCode 75, problem 36 of 75 (Binary Tree (DFS))
+ * Path Sum III (Medium)
  *
  * Count the number of downward paths (not necessarily starting at the root or ending at a leaf) that sum to a target value.
  *

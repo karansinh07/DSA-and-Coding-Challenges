@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #14/75 (Sliding Window)
- * Maximum Average Subarray I — Easy
+ * LeetCode 75, problem 14 of 75 (Sliding Window)
+ * Maximum Average Subarray I (Easy)
  *
  * Find the contiguous subarray of a fixed length k that has the maximum average value.
  *

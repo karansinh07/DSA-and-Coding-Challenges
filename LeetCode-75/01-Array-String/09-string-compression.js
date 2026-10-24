@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #9/75 (Array / String)
- * String Compression — Medium
+ * LeetCode 75, problem 9 of 75 (Array / String)
+ * String Compression (Medium)
  *
  * Compress a character array in place by replacing runs of repeated characters with the character followed by its count.
  *

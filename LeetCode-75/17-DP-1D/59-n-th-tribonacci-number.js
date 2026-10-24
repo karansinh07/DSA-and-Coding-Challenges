@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #59/75 (Dynamic Programming — 1D)
- * N-th Tribonacci Number — Easy
+ * LeetCode 75, problem 59 of 75 (Dynamic Programming (1D))
+ * N-th Tribonacci Number (Easy)
  *
  * Compute the n-th Tribonacci number, where each term is the sum of the previous three terms.
  *

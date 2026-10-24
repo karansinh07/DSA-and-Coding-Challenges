@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #49/75 (Heap / Priority Queue)
- * Kth Largest Element in an Array — Medium
+ * LeetCode 75, problem 49 of 75 (Heap / Priority Queue)
+ * Kth Largest Element in an Array (Medium)
  *
  * Find the kth largest element in an unsorted array (not the kth distinct element).
  *

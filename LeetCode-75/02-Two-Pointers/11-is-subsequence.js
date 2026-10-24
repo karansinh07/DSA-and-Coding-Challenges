@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #11/75 (Two Pointers)
- * Is Subsequence — Easy
+ * LeetCode 75, problem 11 of 75 (Two Pointers)
+ * Is Subsequence (Easy)
  *
  * Check whether string s is a subsequence of string t (characters of s appear in t in the same order).
  *

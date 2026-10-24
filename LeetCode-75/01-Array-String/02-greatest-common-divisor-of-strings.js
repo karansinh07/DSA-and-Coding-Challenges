@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #2/75 (Array / String)
- * Greatest Common Divisor of Strings — Easy
+ * LeetCode 75, problem 2 of 75 (Array / String)
+ * Greatest Common Divisor of Strings (Easy)
  *
  * Find the largest string that, repeated some number of times, forms both input strings.
  *

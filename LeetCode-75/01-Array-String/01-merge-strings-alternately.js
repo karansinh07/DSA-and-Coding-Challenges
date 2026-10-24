@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #1/75 (Array / String)
- * Merge Strings Alternately — Easy
+ * LeetCode 75, problem 1 of 75 (Array / String)
+ * Merge Strings Alternately (Easy)
  *
  * Merge two strings by alternating characters from each; append whatever is left over from the longer string.
  *

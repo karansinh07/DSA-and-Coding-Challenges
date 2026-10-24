@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #56/75 (Binary Search)
- * Koko Eating Bananas — Medium
+ * LeetCode 75, problem 56 of 75 (Binary Search)
+ * Koko Eating Bananas (Medium)
  *
  * Find the minimum constant eating speed so Koko can finish every pile of bananas within h hours, via binary search on the answer.
  *

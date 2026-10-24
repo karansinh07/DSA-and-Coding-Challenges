@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #44/75 (Graphs — Depth First Search)
- * Number of Provinces — Medium
+ * LeetCode 75, problem 44 of 75 (Graphs (DFS))
+ * Number of Provinces (Medium)
  *
  * Given a city adjacency matrix, count the number of connected groups (provinces) of directly or indirectly connected cities.
  *

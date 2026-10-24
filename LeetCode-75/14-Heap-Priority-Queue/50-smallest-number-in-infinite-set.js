@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #50/75 (Heap / Priority Queue)
- * Smallest Number in Infinite Set — Medium
+ * LeetCode 75, problem 50 of 75 (Heap / Priority Queue)
+ * Smallest Number in Infinite Set (Medium)
  *
  * Design a data structure over the infinite set of positive integers that can pop the smallest number and add numbers back.
  *

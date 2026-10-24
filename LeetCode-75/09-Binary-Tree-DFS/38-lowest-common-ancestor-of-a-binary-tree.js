@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #38/75 (Binary Tree — Depth First Search)
- * Lowest Common Ancestor of a Binary Tree — Medium
+ * LeetCode 75, problem 38 of 75 (Binary Tree (DFS))
+ * Lowest Common Ancestor of a Binary Tree (Medium)
  *
  * Find the lowest node in a binary tree that has both of two given nodes as descendants.
  *

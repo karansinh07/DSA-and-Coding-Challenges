@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #64/75 (Dynamic Programming — Multidimensional)
- * Longest Common Subsequence — Medium
+ * LeetCode 75, problem 64 of 75 (Dynamic Programming (Multidimensional))
+ * Longest Common Subsequence (Medium)
  *
  * Find the length of the longest subsequence common to two given strings.
  *

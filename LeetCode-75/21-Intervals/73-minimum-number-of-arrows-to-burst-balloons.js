@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #73/75 (Intervals)
- * Minimum Number of Arrows to Burst Balloons — Medium
+ * LeetCode 75, problem 73 of 75 (Intervals)
+ * Minimum Number of Arrows to Burst Balloons (Medium)
  *
  * Find the minimum number of vertical arrows needed to burst every balloon, where balloons are given as intervals.
  *

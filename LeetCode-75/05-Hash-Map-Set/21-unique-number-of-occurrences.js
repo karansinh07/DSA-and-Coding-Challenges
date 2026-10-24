@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #21/75 (Hash Map / Set)
- * Unique Number of Occurrences — Easy
+ * LeetCode 75, problem 21 of 75 (Hash Map / Set)
+ * Unique Number of Occurrences (Easy)
  *
  * Determine whether the number of occurrences of every distinct value in the array is unique.
  *

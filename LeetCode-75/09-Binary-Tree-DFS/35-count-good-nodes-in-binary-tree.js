@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #35/75 (Binary Tree — Depth First Search)
- * Count Good Nodes in Binary Tree — Medium
+ * LeetCode 75, problem 35 of 75 (Binary Tree (DFS))
+ * Count Good Nodes in Binary Tree (Medium)
  *
  * Count nodes whose value is greater than or equal to every value on the path from the root to that node.
  *

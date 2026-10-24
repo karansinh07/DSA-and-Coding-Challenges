@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #62/75 (Dynamic Programming — 1D)
- * Domino and Tromino Tiling — Medium
+ * LeetCode 75, problem 62 of 75 (Dynamic Programming (1D))
+ * Domino and Tromino Tiling (Medium)
  *
  * Count the number of ways to fully tile a 2 x n board using 2x1 dominoes and L-shaped trominoes.
  *

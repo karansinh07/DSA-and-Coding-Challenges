@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #32/75 (Linked List)
- * Maximum Twin Sum of a Linked List — Medium
+ * LeetCode 75, problem 32 of 75 (Linked List)
+ * Maximum Twin Sum of a Linked List (Medium)
  *
  * For a linked list of even length, find the maximum sum of a node and its "twin" mirrored from the other end.
  *

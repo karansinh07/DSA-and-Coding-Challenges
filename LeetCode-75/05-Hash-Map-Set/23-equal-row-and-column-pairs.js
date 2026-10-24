@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #23/75 (Hash Map / Set)
- * Equal Row and Column Pairs — Medium
+ * LeetCode 75, problem 23 of 75 (Hash Map / Set)
+ * Equal Row and Column Pairs (Medium)
  *
  * Count the number of row/column pairs in a square matrix that contain exactly the same elements in the same order.
  *

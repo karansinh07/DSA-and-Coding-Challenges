@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #40/75 (Binary Tree — Breadth First Search)
- * Maximum Level Sum of a Binary Tree — Medium
+ * LeetCode 75, problem 40 of 75 (Binary Tree (BFS))
+ * Maximum Level Sum of a Binary Tree (Medium)
  *
  * Find the level (depth) of the tree whose node values sum to the maximum, and return that level number.
  *

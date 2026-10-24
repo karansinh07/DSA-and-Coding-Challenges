@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #15/75 (Sliding Window)
- * Maximum Number of Vowels in a Substring of Given Length — Medium
+ * LeetCode 75, problem 15 of 75 (Sliding Window)
+ * Maximum Number of Vowels in a Substring of Given Length (Medium)
  *
  * Find the maximum number of vowel letters contained in any substring of a fixed length k.
  *

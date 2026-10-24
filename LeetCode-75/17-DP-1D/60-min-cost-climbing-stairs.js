@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #60/75 (Dynamic Programming — 1D)
- * Min Cost Climbing Stairs — Easy
+ * LeetCode 75, problem 60 of 75 (Dynamic Programming (1D))
+ * Min Cost Climbing Stairs (Easy)
  *
  * Find the minimum total cost to reach the top of a staircase, where you may start at step 0 or 1 and climb one or two steps at a time.
  *

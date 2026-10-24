@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #67/75 (Bit Manipulation)
- * Counting Bits — Easy
+ * LeetCode 75, problem 67 of 75 (Bit Manipulation)
+ * Counting Bits (Easy)
  *
  * For every integer from 0 to n, compute the number of 1 bits in its binary representation.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #71/75 (Trie)
- * Search Suggestions System — Medium
+ * LeetCode 75, problem 71 of 75 (Trie)
+ * Search Suggestions System (Medium)
  *
  * Given a product list and a search word, return up to three lexicographically smallest matching products after each character typed.
  *

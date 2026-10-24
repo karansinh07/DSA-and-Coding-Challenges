@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #65/75 (Dynamic Programming — Multidimensional)
- * Best Time to Buy and Sell Stock with Transaction Fee — Medium
+ * LeetCode 75, problem 65 of 75 (Dynamic Programming (Multidimensional))
+ * Best Time to Buy and Sell Stock with Transaction Fee (Medium)
  *
  * Maximize total profit from unlimited stock transactions, where each completed transaction incurs a fixed fee.
  *

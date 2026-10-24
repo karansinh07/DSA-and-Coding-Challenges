@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #63/75 (Dynamic Programming — Multidimensional)
- * Unique Paths — Medium
+ * LeetCode 75, problem 63 of 75 (Dynamic Programming (Multidimensional))
+ * Unique Paths (Medium)
  *
  * Count the number of unique paths from the top-left to the bottom-right of a grid, moving only right or down.
  *

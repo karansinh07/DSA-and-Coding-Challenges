@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #72/75 (Intervals)
- * Non-overlapping Intervals — Medium
+ * LeetCode 75, problem 72 of 75 (Intervals)
+ * Non-overlapping Intervals (Medium)
  *
  * Find the minimum number of intervals to remove so that the rest of the intervals do not overlap.
  *

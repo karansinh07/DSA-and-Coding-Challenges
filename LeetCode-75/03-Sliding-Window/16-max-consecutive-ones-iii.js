@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #16/75 (Sliding Window)
- * Max Consecutive Ones III — Medium
+ * LeetCode 75, problem 16 of 75 (Sliding Window)
+ * Max Consecutive Ones III (Medium)
  *
  * Find the longest subarray of all 1s obtainable if you are allowed to flip at most k zeroes to 1.
  *

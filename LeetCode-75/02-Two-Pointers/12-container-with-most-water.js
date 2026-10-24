@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #12/75 (Two Pointers)
- * Container With Most Water — Medium
+ * LeetCode 75, problem 12 of 75 (Two Pointers)
+ * Container With Most Water (Medium)
  *
  * Given a list of heights, pick two lines that, together with the x-axis, form a container holding the most water.
  *

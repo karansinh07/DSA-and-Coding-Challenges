@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #42/75 (Binary Search Tree)
- * Delete Node in a BST — Medium
+ * LeetCode 75, problem 42 of 75 (Binary Search Tree)
+ * Delete Node in a BST (Medium)
  *
  * Delete the node with a given key from a binary search tree and return the root of the updated tree.
  *

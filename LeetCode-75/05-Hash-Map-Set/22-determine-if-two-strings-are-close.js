@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #22/75 (Hash Map / Set)
- * Determine if Two Strings Are Close — Medium
+ * LeetCode 75, problem 22 of 75 (Hash Map / Set)
+ * Determine if Two Strings Are Close (Medium)
  *
  * Check if two strings can be made equal using any number of swap-letters and rename-all-occurrences operations.
  *

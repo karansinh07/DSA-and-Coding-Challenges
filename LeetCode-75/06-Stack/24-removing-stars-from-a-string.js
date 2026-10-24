@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #24/75 (Stack)
- * Removing Stars From a String — Medium
+ * LeetCode 75, problem 24 of 75 (Stack)
+ * Removing Stars From a String (Medium)
  *
  * Repeatedly remove a '*' together with the closest non-star character to its left until no stars remain.
  *

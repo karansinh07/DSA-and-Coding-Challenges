@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #10/75 (Two Pointers)
- * Move Zeroes — Easy
+ * LeetCode 75, problem 10 of 75 (Two Pointers)
+ * Move Zeroes (Easy)
  *
  * Move all zeroes in an array to the end, in place, while keeping the relative order of the non-zero elements.
  *

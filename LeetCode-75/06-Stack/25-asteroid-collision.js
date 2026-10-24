@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #25/75 (Stack)
- * Asteroid Collision — Medium
+ * LeetCode 75, problem 25 of 75 (Stack)
+ * Asteroid Collision (Medium)
  *
  * Simulate asteroids moving left or right that collide and destroy each other based on size, returning the survivors.
  *

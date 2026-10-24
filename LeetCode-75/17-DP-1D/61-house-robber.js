@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #61/75 (Dynamic Programming — 1D)
- * House Robber — Medium
+ * LeetCode 75, problem 61 of 75 (Dynamic Programming (1D))
+ * House Robber (Medium)
  *
  * Find the maximum amount of money you can rob from a row of houses without robbing two adjacent houses.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #54/75 (Binary Search)
- * Successful Pairs of Spells and Potions — Medium
+ * LeetCode 75, problem 54 of 75 (Binary Search)
+ * Successful Pairs of Spells and Potions (Medium)
  *
  * For each spell, count how many potions produce a product meeting a success threshold, using binary search on sorted potions.
  *

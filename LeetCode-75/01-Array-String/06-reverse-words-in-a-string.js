@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #6/75 (Array / String)
- * Reverse Words in a String — Medium
+ * LeetCode 75, problem 6 of 75 (Array / String)
+ * Reverse Words in a String (Medium)
  *
  * Reverse the order of the words in a string, collapsing and trimming any extra whitespace.
  *

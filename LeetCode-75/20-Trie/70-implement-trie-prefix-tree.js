@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #70/75 (Trie)
- * Implement Trie (Prefix Tree) — Medium
+ * LeetCode 75, problem 70 of 75 (Trie)
+ * Implement Trie (Prefix Tree) (Medium)
  *
  * Implement a trie supporting insert, exact search, and startsWith (prefix search) operations.
  *

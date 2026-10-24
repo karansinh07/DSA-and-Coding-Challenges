@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #53/75 (Binary Search)
- * Guess Number Higher or Lower — Easy
+ * LeetCode 75, problem 53 of 75 (Binary Search)
+ * Guess Number Higher or Lower (Easy)
  *
  * Guess a secret number between 1 and n using a guess(x) API that tells you higher, lower, or correct, via binary search.
  *

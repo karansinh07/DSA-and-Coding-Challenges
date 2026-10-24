@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #66/75 (Dynamic Programming — Multidimensional)
- * Edit Distance — Medium
+ * LeetCode 75, problem 66 of 75 (Dynamic Programming (Multidimensional))
+ * Edit Distance (Medium)
  *
  * Find the minimum number of insert, delete, and replace operations needed to convert one string into another.
  *

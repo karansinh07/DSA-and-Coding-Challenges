@@ -1,8 +1,8 @@
 /**
- * LeetCode 75 — #75/75 (Monotonic Stack)
- * Online Stock Span — Medium
+ * LeetCode 75, problem 75 of 75 (Monotonic Stack)
+ * Online Stock Span (Medium)
  *
- * Design a class that returns today's stock price span — the number of consecutive prior days with price <= today's price.
+ * Design a class that returns today's stock price span: the number of consecutive prior days with price <= today's price.
  *
  * How to use this file:
  * 1. Open the problem link below and read the full statement on LeetCode.

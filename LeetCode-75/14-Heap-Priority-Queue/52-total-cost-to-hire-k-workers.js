@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #52/75 (Heap / Priority Queue)
- * Total Cost to Hire K Workers — Medium
+ * LeetCode 75, problem 52 of 75 (Heap / Priority Queue)
+ * Total Cost to Hire K Workers (Medium)
  *
  * Simulate hiring k cheapest workers one at a time from a sliding window of candidates at both ends of a cost array.
  *

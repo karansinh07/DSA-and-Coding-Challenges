@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #41/75 (Binary Search Tree)
- * Search in a Binary Search Tree — Easy
+ * LeetCode 75, problem 41 of 75 (Binary Search Tree)
+ * Search in a Binary Search Tree (Easy)
  *
  * Find the node with a given value in a BST and return the subtree rooted at that node.
  *

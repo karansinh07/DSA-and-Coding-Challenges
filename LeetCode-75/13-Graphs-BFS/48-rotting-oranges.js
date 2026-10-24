@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #48/75 (Graphs — Breadth First Search)
- * Rotting Oranges — Medium
+ * LeetCode 75, problem 48 of 75 (Graphs (BFS))
+ * Rotting Oranges (Medium)
  *
  * Find the minimum number of minutes until no fresh orange remains, as rot spreads to adjacent cells each minute.
  *

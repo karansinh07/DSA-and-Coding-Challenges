@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #17/75 (Sliding Window)
- * Longest Subarray of 1's After Deleting One Element — Medium
+ * LeetCode 75, problem 17 of 75 (Sliding Window)
+ * Longest Subarray of 1's After Deleting One Element (Medium)
  *
  * Find the longest subarray containing only 1s after deleting exactly one element from the array.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #19/75 (Prefix Sum)
- * Find Pivot Index — Easy
+ * LeetCode 75, problem 19 of 75 (Prefix Sum)
+ * Find Pivot Index (Easy)
  *
  * Find the leftmost index where the sum of all numbers to its left equals the sum of all numbers to its right.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #26/75 (Stack)
- * Decode String — Medium
+ * LeetCode 75, problem 26 of 75 (Stack)
+ * Decode String (Medium)
  *
  * Decode a string encoded with the pattern k[encoded_string], where the inner string repeats k times.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #37/75 (Binary Tree — Depth First Search)
- * Longest ZigZag Path in a Binary Tree — Medium
+ * LeetCode 75, problem 37 of 75 (Binary Tree (DFS))
+ * Longest ZigZag Path in a Binary Tree (Medium)
  *
  * Find the length of the longest path that alternates between left and right child moves at every step.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #58/75 (Backtracking)
- * Combination Sum III — Medium
+ * LeetCode 75, problem 58 of 75 (Backtracking)
+ * Combination Sum III (Medium)
  *
  * Find all combinations of k distinct numbers from 1-9 that sum to a target n.
  *

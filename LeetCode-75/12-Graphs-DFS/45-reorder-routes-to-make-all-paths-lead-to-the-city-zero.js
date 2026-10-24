@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #45/75 (Graphs — Depth First Search)
- * Reorder Routes to Make All Paths Lead to the City Zero — Medium
+ * LeetCode 75, problem 45 of 75 (Graphs (DFS))
+ * Reorder Routes to Make All Paths Lead to the City Zero (Medium)
  *
  * Find the minimum number of one-way roads that must be reversed so every city can reach city 0.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #30/75 (Linked List)
- * Delete the Middle Node of a Linked List — Medium
+ * LeetCode 75, problem 30 of 75 (Linked List)
+ * Delete the Middle Node of a Linked List (Medium)
  *
  * Delete the middle node of a singly linked list and return the head of the modified list.
  *

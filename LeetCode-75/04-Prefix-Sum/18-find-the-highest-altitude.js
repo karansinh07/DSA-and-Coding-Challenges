@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #18/75 (Prefix Sum)
- * Find the Highest Altitude — Easy
+ * LeetCode 75, problem 18 of 75 (Prefix Sum)
+ * Find the Highest Altitude (Easy)
  *
  * Given net altitude gains between consecutive points, find the highest altitude reached, starting from 0.
  *

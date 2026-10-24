@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #69/75 (Bit Manipulation)
- * Minimum Flips to Make a OR b Equal to c — Medium
+ * LeetCode 75, problem 69 of 75 (Bit Manipulation)
+ * Minimum Flips to Make a OR b Equal to c (Medium)
  *
  * Find the minimum number of bits to flip in a and b so that the bitwise OR of a and b equals c.
  *

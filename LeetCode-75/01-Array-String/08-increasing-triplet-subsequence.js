@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #8/75 (Array / String)
- * Increasing Triplet Subsequence — Medium
+ * LeetCode 75, problem 8 of 75 (Array / String)
+ * Increasing Triplet Subsequence (Medium)
  *
  * Determine whether there exist three indices i < j < k such that nums[i] < nums[j] < nums[k].
  *

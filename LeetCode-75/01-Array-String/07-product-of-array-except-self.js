@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #7/75 (Array / String)
- * Product of Array Except Self — Medium
+ * LeetCode 75, problem 7 of 75 (Array / String)
+ * Product of Array Except Self (Medium)
  *
  * Return an array where each element is the product of every other element, without using division.
  *

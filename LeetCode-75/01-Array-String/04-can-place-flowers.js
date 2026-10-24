@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #4/75 (Array / String)
- * Can Place Flowers — Easy
+ * LeetCode 75, problem 4 of 75 (Array / String)
+ * Can Place Flowers (Easy)
  *
  * Decide if n new flowers can be planted in a flowerbed without two flowers ending up in adjacent plots.
  *

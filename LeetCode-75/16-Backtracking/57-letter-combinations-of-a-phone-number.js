@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #57/75 (Backtracking)
- * Letter Combinations of a Phone Number — Medium
+ * LeetCode 75, problem 57 of 75 (Backtracking)
+ * Letter Combinations of a Phone Number (Medium)
  *
  * Return every possible letter combination that a string of digits could represent on a phone keypad.
  *

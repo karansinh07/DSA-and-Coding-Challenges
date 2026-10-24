@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #51/75 (Heap / Priority Queue)
- * Maximum Subsequence Score — Medium
+ * LeetCode 75, problem 51 of 75 (Heap / Priority Queue)
+ * Maximum Subsequence Score (Medium)
  *
  * Choose k indices from two arrays to maximize (sum of chosen nums1 values) times (minimum of chosen nums2 values).
  *

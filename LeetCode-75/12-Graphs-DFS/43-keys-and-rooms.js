@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #43/75 (Graphs — Depth First Search)
- * Keys and Rooms — Medium
+ * LeetCode 75, problem 43 of 75 (Graphs (DFS))
+ * Keys and Rooms (Medium)
  *
  * Starting from room 0, determine whether every room can eventually be visited using keys found inside rooms.
  *

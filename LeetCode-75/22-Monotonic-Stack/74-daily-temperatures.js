@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #74/75 (Monotonic Stack)
- * Daily Temperatures — Medium
+ * LeetCode 75, problem 74 of 75 (Monotonic Stack)
+ * Daily Temperatures (Medium)
  *
  * For each day, find how many days you would have to wait until a warmer temperature, using a monotonic stack.
  *

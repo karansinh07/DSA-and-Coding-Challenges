@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #34/75 (Binary Tree — Depth First Search)
- * Leaf-Similar Trees — Easy
+ * LeetCode 75, problem 34 of 75 (Binary Tree (DFS))
+ * Leaf-Similar Trees (Easy)
  *
  * Check whether two binary trees produce the same sequence of leaf values when read left to right.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #31/75 (Linked List)
- * Odd Even Linked List — Medium
+ * LeetCode 75, problem 31 of 75 (Linked List)
+ * Odd Even Linked List (Medium)
  *
  * Group all odd-indexed nodes together followed by all even-indexed nodes, preserving relative order within each group.
  *

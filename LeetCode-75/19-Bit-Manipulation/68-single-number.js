@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #68/75 (Bit Manipulation)
- * Single Number — Easy
+ * LeetCode 75, problem 68 of 75 (Bit Manipulation)
+ * Single Number (Easy)
  *
  * Find the element that appears exactly once in an array where every other element appears exactly twice, using XOR.
  *

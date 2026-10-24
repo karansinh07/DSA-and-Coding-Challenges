@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #29/75 (Linked List)
- * Reverse Linked List — Easy
+ * LeetCode 75, problem 29 of 75 (Linked List)
+ * Reverse Linked List (Easy)
  *
  * Reverse a singly linked list and return the new head.
  *

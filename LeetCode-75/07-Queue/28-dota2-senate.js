@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #28/75 (Queue)
- * Dota2 Senate — Medium
+ * LeetCode 75, problem 28 of 75 (Queue)
+ * Dota2 Senate (Medium)
  *
  * Simulate a round-based voting game between two senate parties and determine which party ultimately wins.
  *

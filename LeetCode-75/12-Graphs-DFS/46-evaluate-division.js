@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #46/75 (Graphs — Depth First Search)
- * Evaluate Division — Medium
+ * LeetCode 75, problem 46 of 75 (Graphs (DFS))
+ * Evaluate Division (Medium)
  *
  * Given equations like a / b = k, build a graph and answer division queries such as a / c using graph traversal.
  *

@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #20/75 (Hash Map / Set)
- * Find the Difference of Two Arrays — Easy
+ * LeetCode 75, problem 20 of 75 (Hash Map / Set)
+ * Find the Difference of Two Arrays (Easy)
  *
  * Return the distinct values present in the first array but not the second, and vice versa.
  *

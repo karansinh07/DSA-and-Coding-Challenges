@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #13/75 (Two Pointers)
- * Max Number of K-Sum Pairs — Medium
+ * LeetCode 75, problem 13 of 75 (Two Pointers)
+ * Max Number of K-Sum Pairs (Medium)
  *
  * Find the maximum number of pairs of numbers from the array that sum to k; each number can be used in at most one pair.
  *

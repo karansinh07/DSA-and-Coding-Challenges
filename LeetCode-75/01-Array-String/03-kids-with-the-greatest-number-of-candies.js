@@ -1,6 +1,6 @@
 /**
- * LeetCode 75 — #3/75 (Array / String)
- * Kids With the Greatest Number of Candies — Easy
+ * LeetCode 75, problem 3 of 75 (Array / String)
+ * Kids With the Greatest Number of Candies (Easy)
  *
  * For each kid, check whether giving them all the extra candies would make them have the most candies of anyone.
  *
