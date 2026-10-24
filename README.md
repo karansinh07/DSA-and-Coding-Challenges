@@ -1,18 +1,12 @@
 # DSA & Coding Challenges
 
-A working showcase of my data-structures-and-algorithms problem-solving in JavaScript — solutions to coding challenges across topics like arrays & strings, two pointers, trees, graphs, dynamic programming, and more.
+Data structures and algorithms, solved in JavaScript — arrays & strings, two pointers, sliding windows, trees, graphs, heaps, binary search, backtracking, dynamic programming, and more.
 
-**Why this repo exists:** a resume line says I know DSA; this is where you can actually read how I think through a problem. Every file is plain JavaScript, zero dependencies, with the approach documented inline and a link back to the original problem.
+**Why this repo exists:** a resume line says I know DSA; this is where that claim is backed up — real, documented solutions, not a bullet point. Every file is plain JavaScript, zero dependencies, with the approach explained inline and a link back to the original problem.
 
 Connect with me on LinkedIn: **[https://www.linkedin.com/in/karansinh-rajput-706a91398](https://www.linkedin.com/in/karansinh-rajput-706a91398)**
 
-## How it's organized
-
-This repo is organized into problem sets, each its own top-level folder, broken down further by topic. Every `.js` file covers one problem: its topic, difficulty, a short description, my solution, and a link back to the original problem — so anyone reviewing it can jump straight to the source.
-
-## Problem Sets
-
-### LeetCode 75 — 22 topics, 75 problems
+## Topics covered
 
 | # | Topic | Problems |
 |---|-------|----------|
@@ -39,8 +33,8 @@ This repo is organized into problem sets, each its own top-level folder, broken 
 | 21 | [Intervals](./LeetCode-75/21-Intervals/) | 2 |
 | 22 | [Monotonic Stack](./LeetCode-75/22-Monotonic-Stack/) | 2 |
 
-**Total: 75 problems, 0 dependencies, pure JavaScript.**
+**75 problems across 22 core DSA topics — zero dependencies, pure JavaScript.**
 
 ---
 
-More problem sets (Blind 75, NeetCode 150, company-tagged sets, and others) will be added here as new top-level folders over time.
+An evolving collection — more problems and topics get added as practice continues.
