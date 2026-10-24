@@ -1,6 +1,6 @@
 # DSA & Coding Challenges
 
-A working showcase of my data-structures-and-algorithms problem-solving in JavaScript — solutions to LeetCode's 75-problem study plan, organized by the core patterns technical interviews test: arrays & strings, two pointers, trees, graphs, dynamic programming, and more.
+A working showcase of my data-structures-and-algorithms problem-solving in JavaScript — solutions to coding challenges across topics like arrays & strings, two pointers, trees, graphs, dynamic programming, and more.
 
 **Why this repo exists:** a resume line says I know DSA; this is where you can actually read how I think through a problem. Every file is plain JavaScript, zero dependencies, with the approach documented inline and a link back to the original problem.
 
@@ -8,9 +8,11 @@ Connect with me on LinkedIn: **[https://www.linkedin.com/in/karansinh-rajput-706
 
 ## How it's organized
 
-Each `.js` file under `LeetCode-75/` covers one problem: its topic, difficulty, a short description, my solution, and a link to the exact problem on LeetCode at the bottom — so anyone reviewing it can jump straight to the original source.
+This repo is organized into problem sets, each its own top-level folder, broken down further by topic. Every `.js` file covers one problem: its topic, difficulty, a short description, my solution, and a link back to the original problem — so anyone reviewing it can jump straight to the source.
 
-## Structure — LeetCode 75 (22 topics, 75 problems)
+## Problem Sets
+
+### LeetCode 75 — 22 topics, 75 problems
 
 | # | Topic | Problems |
 |---|-------|----------|
@@ -41,4 +43,4 @@ Each `.js` file under `LeetCode-75/` covers one problem: its topic, difficulty, 
 
 ---
 
-More problem sets (Blind 75, NeetCode 150, company-tagged sets) will be added as folders here over time.
+More problem sets (Blind 75, NeetCode 150, company-tagged sets, and others) will be added here as new top-level folders over time.
