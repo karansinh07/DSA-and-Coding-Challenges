@@ -7,5 +7,5 @@ This is where I put my data structures, algorithms, and JavaScript skills on dis
 Let's connect over LinkedIn:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/karansinh-rajput-706a91398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/karansinh-rajput-0a6505410" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
